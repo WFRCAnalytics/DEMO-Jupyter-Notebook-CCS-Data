@@ -12,7 +12,7 @@ Instructions:
     5. Open 'Notebook.ipynb' by clicking on the file.
 4. Execute cells one-by-one by pressing SHIFT+ENTER to excute cell and move to the next one. (CTRL+ENTER will execute current cell without moving to next.)
 
-If you want to see the 2019 data in its original pre-processed glory, visit the data\_udot-ccs-data-2019-original\ folder.
+If you want to see the 2019 data in its original pre-processed glory, visit the data\\_udot-ccs-data-2019-original\ folder.
 
 Additional Resources:
 1. [Visualizing Data with the Spatially Enabled DataFrame](https://developers.arcgis.com/python/guide/visualizing-data-with-the-spatially-enabled-dataframe/)
