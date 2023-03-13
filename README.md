@@ -9,7 +9,7 @@ Instructions:
     2. Use DOS commands to navigate to directory with downloaded repository. You must be in the downloaded folder or above it to be able to access it through jupyter notebook.
     3. Type 'jupyter notebook' and press Enter. This will open your default web browser to the jupyter notebook interface.
     4. Navigate to the folder where you downloaded or cloned repository.
-    5. Open 'Notebook.ipynb' by clicking on the file.
+    5. Open 'Demo-Notebook.ipynb' by clicking on the file.
 4. Execute cells one-by-one by pressing SHIFT+ENTER to excute cell and move to the next one. (CTRL+ENTER will execute current cell without moving to next.)
 
 If you want to see the 2019 data in its original pre-processed glory, visit the data\\_udot-ccs-data-2019-original\ folder.
