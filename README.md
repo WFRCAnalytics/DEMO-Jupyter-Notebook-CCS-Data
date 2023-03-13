@@ -15,4 +15,4 @@ Instructions:
 
 
 Additional Resources:
-[UDOT Learning Portal Course: Beginning Data Science with Python and Jupyter] (https://utah-udotu_public.sabacloud.com/Saba/Web_spf/NA1PRD0101/common/ledetail/cours000000000026969)
+UDOT Learning Portal Course: [Beginning Data Science with Python and Jupyter](https://utah-udotu_public.sabacloud.com/Saba/Web_spf/NA1PRD0101/common/ledetail/cours000000000026969)
