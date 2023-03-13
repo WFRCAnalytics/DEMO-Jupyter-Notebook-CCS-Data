@@ -7,8 +7,8 @@ Instructions:
 3. Open 'Demo-Notebook.ipynb' in Jupyter using ArcGIS Pro environment ([more info](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/))
     1. From Start Menu, go to ArcGIS group and select 'Python Command Prompt.' (Note: This will load command prompt in ArcGIS Pro's active python environment)
     2. Use DOS commands to navigate to directory with downloaded repository. You must be in the downloaded folder or above it to be able to access jupyter notebook.
-    3. Type 'jupyter notebook' and press Enter. This will open your default web browser .
-    4. Navigate to the repository folder.
+    3. Type 'jupyter notebook' and press Enter. This will open your default web browser to the jupyter notebook interface.
+    4. Navigate to the folder where you downloaded or cloned repository.
     5. Open 'Notebook.ipynb' by clicking on the file.
 4. Execute cells one-by-one by pressing SHIFT+ENTER to excute cell and move to the next one. (CTRL+ENTER will execute current cell without moving to next.)
 
