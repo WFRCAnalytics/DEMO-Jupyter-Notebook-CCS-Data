@@ -1,5 +1,5 @@
 # Demo-Jupyter-Notebook-with-CCS-Data
-Demo of jupyter notebook using UDOT Continuous County Station data
+Demo of jupyter notebook using UDOT Continuous Count Station data
 
 Instructions:
 1. Download (or clone) respository
