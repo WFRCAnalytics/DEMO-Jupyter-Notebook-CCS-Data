@@ -14,6 +14,7 @@ Instructions:
 
 
 Additional Resources:
-1. [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
-2. [How to Use Jupyter Notebook: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-3. UDOT Learning Portal Course: [Beginning Data Science with Python and Jupyter](https://utah-udotu_public.sabacloud.com/Saba/Web_spf/NA1PRD0101/common/ledetail/cours000000000026969)
+1. [Visualizing Data with the Spatially Enabled DataFrame](https://developers.arcgis.com/python/guide/visualizing-data-with-the-spatially-enabled-dataframe/)
+2. [Jupyter/IPython Notebook Quick Start Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
+3. [How to Use Jupyter Notebook: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+4. UDOT Learning Portal Course: [Beginning Data Science with Python and Jupyter](https://utah-udotu_public.sabacloud.com/Saba/Web_spf/NA1PRD0101/common/ledetail/cours000000000026969)
