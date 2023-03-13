@@ -3,7 +3,7 @@ Demo of jupyter notebook in ArcGIS Pro environment using UDOT Continuous Count S
 
 Instructions:
 1. Download (or clone) respository
-2. Unzip "data\CCSHourDir_2013to2019.zip"
+2. Unzip the processed (parsed from pdfs and excel files) CCS data file: data\CCSHourDir_2013to2019.zip
 3. Open 'Demo-Notebook.ipynb' in Jupyter using ArcGIS Pro environment ([more info](https://developers.arcgis.com/python/guide/using-the-jupyter-notebook-environment/))
     1. From Start Menu, go to ArcGIS group and select 'Python Command Prompt.' (Note: This will load command prompt in ArcGIS Pro's active python environment)
     2. Use DOS commands to navigate to directory with downloaded repository. You must be in the downloaded folder or above it to be able to access jupyter notebook.
