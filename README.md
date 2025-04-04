@@ -1,4 +1,4 @@
-# Demo-Jupyter-Notebook-with-CCS-Data
+# DEMO-Jupyter-Notebook-CCS-Data
 Demo of jupyter notebook in ArcGIS Pro environment using UDOT Continuous Count Station data
 
 Instructions:
